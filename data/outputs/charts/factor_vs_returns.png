@@ -1,0 +1,11 @@
+import matplotlib.pyplot as plt
+
+factors = ['Factor1', 'Factor2', 'Factor3']
+returns = [0.015, 0.018, 0.020]
+
+plt.bar(factors, returns, color='blue')
+plt.title('Factor Risks vs Returns')
+plt.xlabel('Factors')
+plt.ylabel('Risk/Return')
+plt.savefig('data/outputs/charts/factor_vs_returns.png')
+plt.show()

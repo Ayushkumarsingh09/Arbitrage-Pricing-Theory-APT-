@@ -1,0 +1,19 @@
+Arbitrage Pricing Theory (APT) Summary Report
+============================================
+
+Expected Returns:
+- Asset1: 0.025
+- Asset2: 0.022
+- Asset3: 0.027
+
+Factor Risks:
+- Factor1: 0.015
+- Factor2: 0.018
+- Factor3: 0.020
+
+Residual Risk Analysis:
+- Asset1: 0.005
+- Asset2: 0.007
+- Asset3: 0.006
+
+Note: Use the visualizations in the charts directory for detailed insights.
