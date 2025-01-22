@@ -1,0 +1,9 @@
+residuals = [0.005, 0.007, 0.006]
+assets = ['Asset1', 'Asset2', 'Asset3']
+
+plt.bar(assets, residuals, color='green')
+plt.title('Residuals Analysis by Asset')
+plt.xlabel('Assets')
+plt.ylabel('Residual Risk')
+plt.savefig('data/outputs/charts/residuals_analysis.png')
+plt.show()
